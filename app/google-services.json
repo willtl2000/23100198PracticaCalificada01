@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426690509803",
+    "project_id": "dpapc1",
+    "storage_bucket": "dpapc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426690509803:android:7d0b97b4bd5050df4eb7ae",
+        "android_client_info": {
+          "package_name": "dev.wticona.a23100198practicacalificada01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoUYsPYpVutGWxs5KlRQzhf-jPhNF9Rf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
